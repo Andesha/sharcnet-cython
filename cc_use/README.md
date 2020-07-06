@@ -6,5 +6,5 @@
  * Additionally to use the `setup.py` file you may run `python setup.py build_ext --inplace`
 4. You should now see several lines of GCC output, and newly created files
 5. Open a Python interpreter to test via:
- * import sieve_fast as sf
- * sf.sieve_table_fin(1_000)
+ * `import sieve_fast as sf`
+ * `sf.sieve_table_fin(1_000)`
